@@ -1,1 +1,2 @@
 # Robot-Ekrem
+# EKREM is a friendly educational robot. EKREM was designed to engage children through conversations, music, videos, and games, making learning fun and interactive. Powered by Python and a Raspberry Pi, and brought to life through 3D printing, EKREM is more than a toy—it's a learning companion. Its child-friendly design, touch screen interface, and ability to understand voice commands have made it a hit among kids, educators, and parents. The code related to Ekrem is just a part. More files need to be added.
